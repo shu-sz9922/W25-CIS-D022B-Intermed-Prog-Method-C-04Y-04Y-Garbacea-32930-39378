@@ -1,5 +1,6 @@
 //NEED TO READ #1&4
 
+//04_1_Pointer_Variable.pptx
 //3. Pointer Variable - combined variable deriving from basic variables
 int *ptr;
 int* ptr;
@@ -39,6 +40,7 @@ cout << *ptr;
 ptr = &ch; //->ERROR!
 cout << *ptr;
 
+
 //A pointer variable is a variable that can store an address.
 double  n = 75.99;
 double *ptr;
@@ -49,4 +51,18 @@ cout << n << " " << &n  << " " << ptr;
 //in the past, we could learn levels of ptr
 //q = &ptr;
 //then how can we define q?
-// double **q;
+// double **q; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
