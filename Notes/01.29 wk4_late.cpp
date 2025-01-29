@@ -88,3 +88,4 @@ ptr[-1]; //does exist!!!
 // 2. Pointer Fun Video
 // 3. Find and fix errors 
 // 4. Find and fix errors  – memory leak
+
