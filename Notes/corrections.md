@@ -12,11 +12,11 @@ How many int locations in memory does the struct definition allocate?  <br>
 
 
 2. If struct definition CartesianPoint has subitems int x and int y, how many total int locations in memory are allocated for these variable declarations?
-`
+``
 int myNum;
 CartesianPoint myPoint1;
 CartesianPoint myPoint2;
-`
+``
 4 Incorrect Each myPoint variable has two int locations allocated, for x and for y.
 0 Incorrect Each myPoint variable has two int locations allocated, for x and for y.
 1 for myNum. 
