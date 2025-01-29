@@ -26,4 +26,4 @@ CartesianPoint myPoint2;
 
 4. Write a statement to assign 12 to the `hourValue` data member of TimeHrMin variable `time1`.<br>
 Incorrect
-`time1.hourValue` is an int variable. So `time1.hourValue = ...`<br>
+`time1.hourValue` is an int variable. So time1.hourValue = ...<br>
