@@ -4,6 +4,7 @@
 Notes: ``` code ```
 <br>
 <p></p>
+
 1. A struct definition for CartesianPoint has subitems int x and int y. 
 How many int locations in memory does the struct definition allocate?  <br>
 Incorrect: Tricky question. The struct definition just creates a type. Does it actually allocate any memory? <br>
