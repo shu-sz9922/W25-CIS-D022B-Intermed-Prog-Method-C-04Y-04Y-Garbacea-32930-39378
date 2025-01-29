@@ -23,3 +23,7 @@ CartesianPoint myPoint2;
 2 for myPoint1 (1 for x, 1 for y). 
 2 for myPoint2.<br>
 
+
+4. Write a statement to assign 12 to the hourValue data member of TimeHrMin variable time1.<br>
+Incorrect
+time1.hourValue is an int variable. So time1.hourValue = ...<br>
