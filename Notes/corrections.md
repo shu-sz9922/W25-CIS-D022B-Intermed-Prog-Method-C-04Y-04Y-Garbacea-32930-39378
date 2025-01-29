@@ -1,4 +1,4 @@
-#>3.1: Grouping data: struct
+#3.1: Grouping data: struct
 3.1.4: The struct construct.
 1)
 A struct definition for CartesianPoint has subitems int x and int y. 
@@ -18,6 +18,3 @@ CartesianPoint myPoint2;
 1 for myNum. 
 2 for myPoint1 (1 for x, 1 for y). 
 2 for myPoint2.
-
-</body>
-</html>
