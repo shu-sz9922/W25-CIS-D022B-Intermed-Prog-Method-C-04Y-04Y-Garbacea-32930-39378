@@ -25,5 +25,14 @@ CartesianPoint myPoint2;
 
 
 4) Write a statement to assign 12 to the hourValue data member of TimeHrMin variable time1.<br>
-Incorrect
-`time1.hourValue` is an int variable. So time1.hourValue = ...<br>
+Incorrect `time1.hourValue` is an int variable. So time1.hourValue = ...<br>
+
+
+### challenge activity 3.1.2: Declaring a struct.
+```Failed to compile
+main.cpp:7:2: error: expected ‘;’ after struct definition
+    7 | }
+      |  ^
+      |  ;
+```
+
