@@ -1,6 +1,17 @@
 //NEED TO READ #1&4
 
-//04_1_Pointer_Variable.pptx
+04_1_Pointer_Variable
+// Introduction to Pointers
+// 1. Address of variables of different types – memory map
+// 2. Address of a variable – code
+// 3. Pointer variable
+// 4. The address (&) and indirection (*) operators
+// 5. Dereferencing an uninitialized pointer
+// 6. Pointer variable
+// 7. Pointer – a derived data type
+// 8. Why pointers?
+// 9. Who is the inventor of the pointer variable concept?
+
 //3. Pointer Variable - combined variable deriving from basic variables
 int *ptr;
 int* ptr;
@@ -55,14 +66,25 @@ cout << n << " " << &n  << " " << ptr;
 
 
 
+04_3_Ptr_Arithmetic
+// Pointer Arithmetic and Arrays
+// 1. Arithmetic operators
+// 2. Relational operators
+// 3. Traversing an array using a pointer – find smallest
+// 4. Why use a pointer to traverse an array?
+// 5. Traversing an array using a pointer – find smallest (function)
+// 6. Traversing an array using a pointer – calculate sum (function)
+// 7. Traversing an array using a pointer – right rotation
+
+//pg5
+ptr[-1]; //does exist!!!
+//ptr[-1] is actually 30
 
 
 
-
-
-
-
-
-
-
-
+04_4_MemAlloc
+// Pointers and Memory Allocation
+// 1. Memory Management: Stack versus Heap Allocation
+// 2. Pointer Fun Video
+// 3. Find and fix errors 
+// 4. Find and fix errors  – memory leak
