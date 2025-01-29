@@ -17,9 +17,9 @@ int myNum;
 CartesianPoint myPoint1;
 CartesianPoint myPoint2;
 `<br>
-4 Incorrect Each myPoint variable has two int locations allocated, for x and for y.
-0 Incorrect Each myPoint variable has two int locations allocated, for x and for y.
+4 Incorrect Each myPoint variable has two int locations allocated, for x and for y.<br>
+0 Incorrect Each myPoint variable has two int locations allocated, for x and for y.<br>
 1 for myNum. 
 2 for myPoint1 (1 for x, 1 for y). 
-2 for myPoint2.
+2 for myPoint2.<br>
 
