@@ -2,7 +2,7 @@
 ## 3.1: Grouping data: struct
 ### 3.1.4: The struct construct.
 1) A struct definition for CartesianPoint has subitems int x and int y. 
-How many int locations in memory does the struct definition allocate?
+How many int locations in memory does the struct definition allocate?  <br>
 Incorrect: Tricky question. The struct definition just creates a type. Does it actually allocate any memory?
 The struct definition just creates a type, but doesn't allocate memory. Later variable declarations, like Point myPoint, will allocate memory locations.
 
