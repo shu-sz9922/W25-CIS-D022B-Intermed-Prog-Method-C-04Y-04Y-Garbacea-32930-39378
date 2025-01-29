@@ -5,7 +5,7 @@ Notes: ``` code ```
 <br>
 <p></p>
 
-1. A struct definition for CartesianPoint has subitems int x and int y. 
+1 A struct definition for CartesianPoint has subitems int x and int y. 
 How many int locations in memory does the struct definition allocate?  <br>
 Incorrect: Tricky question. The struct definition just creates a type. Does it actually allocate any memory? <br>
 The struct definition just creates a type, but doesn't allocate memory. Later variable declarations, like Point myPoint, will allocate memory locations.<br>
@@ -24,6 +24,7 @@ CartesianPoint myPoint2;
 2 for myPoint2.<br>
 
 
-4. Write a statement to assign 12 to the `hourValue` data member of TimeHrMin variable `time1`.<br>
+4)
+Write a statement to assign 12 to the hourValue data member of TimeHrMin variable time1.<br>
 Incorrect
 `time1.hourValue` is an int variable. So time1.hourValue = ...<br>
