@@ -8,7 +8,7 @@ How many int locations in memory does the struct definition allocate?  <br>
 >The struct definition just creates a type, but doesn't allocate memory. Later variable declarations, like Point myPoint, will allocate memory locations.<br>
 
 
-2. If struct definition CartesianPoint has subitems int x and int y, how many total int locations in memory are allocated for these variable declarations?
+<p>2. If struct definition CartesianPoint has subitems int x and int y, how many total int locations in memory are allocated for these variable declarations?
 ```
 int myNum;
 CartesianPoint myPoint1;
@@ -19,3 +19,4 @@ CartesianPoint myPoint2;
 1 for myNum. 
 2 for myPoint1 (1 for x, 1 for y). 
 2 for myPoint2.
+</p>
