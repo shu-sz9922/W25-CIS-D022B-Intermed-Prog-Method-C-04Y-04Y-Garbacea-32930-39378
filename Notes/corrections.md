@@ -9,9 +9,9 @@ The struct definition just creates a type, but doesn't allocate memory. Later va
 
 2) If struct definition CartesianPoint has subitems int x and int y, how many total int locations in memory are allocated for these variable declarations?
 <code>
-int myNum;
-CartesianPoint myPoint1; 
-CartesianPoint myPoint2;
+  int myNum;
+  CartesianPoint myPoint1; 
+  CartesianPoint myPoint2;
 </code>
 4 Incorrect Each myPoint variable has two int locations allocated, for x and for y.
 0 Incorrect Each myPoint variable has two int locations allocated, for x and for y.
