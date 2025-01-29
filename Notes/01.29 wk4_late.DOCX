@@ -1,0 +1,6 @@
+//NEED TO READ #1&4
+
+//3. Pointer Variable
+int *ptr;
+int* ptr;
+int *ptr, *b;
