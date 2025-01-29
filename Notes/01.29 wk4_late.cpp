@@ -30,7 +30,14 @@ cout << *ptr << endl; //couldn't work since it hasn't been initialize
 
 //22A - char can be converted into int
 //ex: pic 12:23
+int a=10;
+int *ptr;
+char ch='A';
 
+ptr = &a;
+cout << *ptr;
+ptr = &ch; //->ERROR!
+cout << *ptr;
 
 //A pointer variable is a variable that can store an address.
 double  n = 75.99;
